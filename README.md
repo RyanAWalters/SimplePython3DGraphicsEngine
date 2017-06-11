@@ -3,8 +3,14 @@ Simple graphics engine that renders various 3D abjects and applies Phong and Gou
 
 *This school project required the used of TKinter and nothing else. Even use of numpy was forbidden. Every pixel was required to be a rectangle object scaled to as small as possible on a canvas, and matrix manipulation and linear alegbra were done manually. As such, this program is nearly exponentially slower the more "pixels" are being rendered. I wish it wasn't so, but it is what it is.*
 
+<p align="center">
+  <img src="img/1.png" width="400"> <img src="img/2.png" width="400"> <img src="img/4.png" width="400"> <img src="img/5.png" width="400"> <img src="img/6.png" width="400"> <img src="img/3.png" width="400"> <img src="img/7.png" width="400"> <img src="img/8.png" width="400">
+</p>
+
 Ryan Walters
+
   Louisiana Tech University
+  
   2/11/17
 
   Assignment 4:

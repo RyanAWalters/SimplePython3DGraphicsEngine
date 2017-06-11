@@ -1,7 +1,7 @@
 # Graphics Engine
-Simple graphics engine that renders various 3D abjects and applies Phong and Gouraud lighting and shading models and allows the manipulation of them (rotation, translation, and scaling). Features backface culling, multiple object selection (and manipulation), Z-buffering, linearly-interpolated triangle filling, shading, and lighting. It provides a GUI for doing all of this via TKinter.
+Simple graphics engine that renders various 3D abjects and applies Phong and Gouraud lighting and shading models and allows the manipulation of them (rotation, translation, and scaling). Features backface culling, multiple object selection (and manipulation), Z-buffering, linearly-interpolated triangle filling, shading, lighting, and specular highlighting. It provides a GUI for doing all of this via TKinter.
 
-*This school project required the use of TKinter and nothing else. Even use of numpy was forbidden. Every pixel was required to be a rectangle object scaled to as small as possible on a canvas, and matrix manipulation and linear alegbra were done manually. As such, this program is nearly exponentially slower the more "pixels" are being rendered. I wish it wasn't so, but it is what it is.*
+*This school project required the use of TKinter and nothing else. Even use of numpy was forbidden. Every pixel was required to be a rectangle object scaled to as small as possible on a canvas, and matrix manipulation and linear alegbra were done manually. As such, this program is nearly exponentially slower the more "pixels" (read, TKinter rectangle objects) are being rendered. I wish it wasn't so, but it is what it is.*
 
 <p align="center">
   <img src="img/1.png" width="400"> <img src="img/2.png" width="400"> <img src="img/4.png" width="400"> <img src="img/5.png" width="400"> <img src="img/6.png" width="400"> <img src="img/3.png" width="400"> <img src="img/7.png" width="400"> <img src="img/8.png" width="400">
